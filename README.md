@@ -17,10 +17,7 @@
   <a href="https://github.com/mhd-medfa/Simple-Stereo-Vision#contribute" target="_blank">
     <img alt="Contributors" src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square">
   </a>
-
-  <a href="https://github.com/mhd-medfa/Simple-Stereo-Vision/blob/master/LICENSE" target="_blank">
-    <img alt="LICENSE" src="https://img.shields.io/github/license/mhd-medfa/Simple-Stereo-Vision?style=flat-square&color=yellow">
-  <a/>
+  
 </p>
 
 
