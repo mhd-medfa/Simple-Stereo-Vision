@@ -1,4 +1,27 @@
 # Simple-Stereo-Vision-Demo
+<p align="center">
+  <a href="https://github.com/mhd-medfa/Simple-Stereo-Vision/commits/master" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/mhd-medfa/Simple-Stereo-Vision?style=flat-square" alt="GitHub last commit">
+  </a>
+
+  <a href="https://github.com/mhd-medfa/Simple-Stereo-Vision/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/mhd-medfa/Simple-Stereo-Vision?style=flat-square&color=red" alt="GitHub issues">
+  </a>
+
+  <a href="https://github.com/mhd-medfa/Simple-Stereo-Vision/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/mhd-medfa/Simple-Stereo-Vision?style=flat-square&color=blue" alt="GitHub pull requests">
+  </a>
+
+  </br>
+
+  <a href="https://github.com/mhd-medfa/Simple-Stereo-Vision#contribute" target="_blank">
+    <img alt="Contributors" src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square">
+  </a>
+
+  <a href="https://github.com/mhd-medfa/Simple-Stereo-Vision/blob/master/LICENSE" target="_blank">
+    <img alt="LICENSE" src="https://img.shields.io/github/license/mhd-medfa/Simple-Stereo-Vision?style=flat-square&color=yellow">
+  <a/>
+</p>
 
 The provided dataset contains left and right images in two different folders with the same name. For this task please select image pair corresponds to your id (`0000[Id].png`). You need to use 8 point algorithm in order to find the fundamental matrix. For the initial key points detection (minimum 8 corresponding points) you can either do it manually or use any key points detection technique. Next step is to estimate the disparity map for the selected image pair. You may assume the baseline of the stereo camera as the 10cm and focal length of both the left and right side cameras as 2.8mm.
 
