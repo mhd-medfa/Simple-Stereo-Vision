@@ -23,6 +23,7 @@
   <a/>
 </p>
 
+
 The provided dataset contains left and right images in two different folders with the same name. For this task please select image pair corresponds to your id (`0000[Id].png`). You need to use 8 point algorithm in order to find the fundamental matrix. For the initial key points detection (minimum 8 corresponding points) you can either do it manually or use any key points detection technique. Next step is to estimate the disparity map for the selected image pair. You may assume the baseline of the stereo camera as the 10cm and focal length of both the left and right side cameras as 2.8mm.
 
 
@@ -69,3 +70,5 @@ Tether address: <a href="0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9">
   <img align="left" alt="TetherUSD" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/tether.svg" />
 </a>
 <mark>`0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9`</mark>
+
+Licensed under [MIT License](LICENSE)
